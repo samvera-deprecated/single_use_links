@@ -7,11 +7,11 @@ require "single_use_links/version"
 Gem::Specification.new do |s|
   s.name        = "single_use_links"
   s.version     = SingleUseLinks::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of SingleUseLinks."
-  s.description = "TODO: Description of SingleUseLinks."
+  s.authors     = ["Jessie Keck", "Chris Beer"]
+  s.email       = ["jkeck@stanford.edu", "cabeer@stanford.edu"]
+  s.homepage    = "http://projecthdyra.org"
+  s.summary     = "Summary of SingleUseLinks."
+  s.description = "Description of SingleUseLinks."
 
   s.files = Dir["{app,config,db,lib}/**/*", "LICENSE.txt", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
