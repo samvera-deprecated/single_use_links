@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/projecthydra/single_use_links.png?branch=master)](https://travis-ci.org/projecthydra/single_use_links)
+
 # SingleUseLinks
 
 TODO: Write a gem description
